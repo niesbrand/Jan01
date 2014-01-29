@@ -1,4 +1,5 @@
 Jan01
 =====
 
-Ejercicio del curso FE
+Ejercicio realizado en el mes de Enero.
+
